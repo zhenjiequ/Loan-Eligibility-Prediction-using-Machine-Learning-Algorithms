@@ -1,1 +1,1 @@
-# Project-Loan-Eligibility-Prediction-using-Machine-Learning-Algorithms
+# Loan Eligibility Prediction using Machine Learning Algorithms
